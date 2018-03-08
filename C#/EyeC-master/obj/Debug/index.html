@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>EyeC</title>
+	</head>
+	
+	<body>
+	
+		<!-- Basic header with info on what to do. -->
+		<h1>EyeC Add Phone Number:</h1>
+		<p1>
+			Add a phone number below. This is the phone that the picture will be sent to.<br>
+			The text field must only contain numbers.<br>
+		</p1>
+		
+		<!-- Asking for the phone number in a text field     alert(myFunction())-->
+		<!-- Button for submitting the phone number   window.location = 'https://www.youtube.com?phone=val -->
+		<form>
+ 			 <br>Phone Number:<br>
+ 			 <!-- Method for getting the value from the text field -->
+ 			 <script>
+				function myFunction() {
+    				return document.getElementById("textfield").value;
+				}
+			 </script>
+			 
+			 <!-- Create the text field and button -->
+  			 <input id="textfield" type="tel" name="phonenumber" val = value>
+  			 <input type="button" onclick="window.location = 'addnumber.html" value="Submit!">
+		</form>
+
+		
+
+	</body>
+	
+	
+</html>

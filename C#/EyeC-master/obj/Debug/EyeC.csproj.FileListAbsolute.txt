@@ -1,0 +1,14 @@
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\haarcascade_eye.xml
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.FaceDetection.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\FaceDetection - Copy\obj\Debug\EyeC.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\FaceDetection - Copy\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\FaceDetection - Copy\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Debug\Example.FaceDetection.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Debug\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Debug\EyeC.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Debug\EyeC.CameraCapture.resources
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Debug\EyeC.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.FaceDetection.exe.config
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\index.html

@@ -1,0 +1,12 @@
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\haarcascade_eye.xml
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\index.html
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Release\EyeC.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Release\EyeC.csprojResolveAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Release\EyeC.EyeC.resources
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\EyeC.exe.config
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\EyeC.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\EyeC.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Release\EyeC.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\EyeC\obj\Release\EyeC.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\EyeCIcon.ico
